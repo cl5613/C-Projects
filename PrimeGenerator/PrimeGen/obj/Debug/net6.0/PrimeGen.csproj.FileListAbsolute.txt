@@ -1,0 +1,5 @@
+/Users/chenlin/Desktop/PrimeGen/PrimeGen/obj/Debug/net6.0/PrimeGen.csproj.AssemblyReference.cache
+/Users/chenlin/Desktop/PrimeGen/PrimeGen/obj/Debug/net6.0/PrimeGen.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chenlin/Desktop/PrimeGen/PrimeGen/obj/Debug/net6.0/PrimeGen.AssemblyInfoInputs.cache
+/Users/chenlin/Desktop/PrimeGen/PrimeGen/obj/Debug/net6.0/PrimeGen.AssemblyInfo.cs
+/Users/chenlin/Desktop/PrimeGen/PrimeGen/obj/Debug/net6.0/PrimeGen.csproj.CoreCompileInputs.cache
