@@ -1,0 +1,15 @@
+/Users/chenlin/Desktop/du/du/bin/Debug/net6.0/du
+/Users/chenlin/Desktop/du/du/bin/Debug/net6.0/du.deps.json
+/Users/chenlin/Desktop/du/du/bin/Debug/net6.0/du.runtimeconfig.json
+/Users/chenlin/Desktop/du/du/bin/Debug/net6.0/du.dll
+/Users/chenlin/Desktop/du/du/bin/Debug/net6.0/du.pdb
+/Users/chenlin/Desktop/du/du/obj/Debug/net6.0/du.csproj.AssemblyReference.cache
+/Users/chenlin/Desktop/du/du/obj/Debug/net6.0/du.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chenlin/Desktop/du/du/obj/Debug/net6.0/du.AssemblyInfoInputs.cache
+/Users/chenlin/Desktop/du/du/obj/Debug/net6.0/du.AssemblyInfo.cs
+/Users/chenlin/Desktop/du/du/obj/Debug/net6.0/du.csproj.CoreCompileInputs.cache
+/Users/chenlin/Desktop/du/du/obj/Debug/net6.0/du.dll
+/Users/chenlin/Desktop/du/du/obj/Debug/net6.0/refint/du.dll
+/Users/chenlin/Desktop/du/du/obj/Debug/net6.0/du.pdb
+/Users/chenlin/Desktop/du/du/obj/Debug/net6.0/du.genruntimeconfig.cache
+/Users/chenlin/Desktop/du/du/obj/Debug/net6.0/ref/du.dll
